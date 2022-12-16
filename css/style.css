@@ -1,0 +1,41 @@
+.container{
+    max-width: 1920px;
+    width: 100%;
+    margin: 0 auto;
+    border: 3px solid red;
+}
+
+
+header{
+    width: 85%;
+    margin: 0 auto;
+    border: 3px solid blue;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 52px 0 60px 0;
+}
+
+
+.header_right{
+    display: flex;
+    gap: 263px;
+}
+
+
+ul{
+    display: flex;
+    gap: 53px;
+}
+
+li{
+    font-size: 20px;
+}
+
+
+section{
+    width: 85%;
+    margin: 0 auto 138px auto;
+    height: 613px;
+    background-color: aquamarine;
+}
